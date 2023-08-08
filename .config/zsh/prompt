@@ -1,0 +1,2 @@
+  PROMPT='%B%{%F{cyan}%}%(4~|%-1~/.../%2~|%~)%b %B%F{blue}>%f%b '
+  RPROMPT='%(?..%F{red}[%?]%f)'
